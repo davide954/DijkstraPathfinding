@@ -79,10 +79,9 @@ Dijkstra's algorithm is a graph search algorithm that finds the shortest path be
 ## 📁 Project Structure
 
 ```
-dijkstra-pathfinding-visualizer/
-├── DijkstraPathfinding/
-│   └── DijkstraPathfinding.java    # Main application file
-├── README.md                       # Project documentation
+DijkstraPathfinding/
+├── DijkstraPathfinding.java       # Main application file
+├── README.md                      # Project documentation
 ├── .gitignore                     # Git ignore rules
 └── LICENSE                        # MIT License
 ```
