@@ -33,7 +33,7 @@ A Java Swing application that demonstrates **Dijkstra's shortest path algorithm*
 #### Option 1: Command Line
 ```bash
 # Clone the repository
-git clone https://github.com/bugubster13/dijkstra-pathfinding-visualizer.git
+git clone https://github.com/bugubster13/DijkstraPathfinding.git
 
 # Navigate to project directory
 cd dijkstra-pathfinding-visualizer
