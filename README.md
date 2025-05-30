@@ -36,10 +36,10 @@ A Java Swing application that demonstrates **Dijkstra's shortest path algorithm*
 git clone https://github.com/bugubster13/DijkstraPathfinding.git
 
 # Navigate to project directory
-cd dijkstra-pathfinding-visualizer
+cd DijkstraPathfinding
 
 # Compile the Java file
-javac DijkstraPathfinding/DijkstraPathfinding.java
+javac DijkstraPathfinding.java
 
 # Run the application
 java DijkstraPathfinding.DijkstraPathfinding
